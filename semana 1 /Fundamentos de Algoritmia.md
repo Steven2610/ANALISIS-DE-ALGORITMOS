@@ -1,1 +1,15 @@
+# Capítulo 1: Introducción a los Algoritmos 
+El capítulo inicial del libro Fundamentos de la Algoritmia, de Gilles Brassard y Paul Bratley, tiene como objetivo introducir de forma clara y estructurada el concepto de algoritmo, elemento central en el estudio de la informática y la resolución sistemática de problemas.
+
+Un algoritmo puede definirse como un conjunto ordenado y finito de pasos que conducen a la solución de un problema. Para que esta definición sea efectiva, es fundamental que el algoritmo cumpla tres propiedades básicas: debe estar compuesto por instrucciones claras y precisas (sin ambigüedades), debe ser determinista (producir el mismo resultado ante la misma entrada), y, sobre todo, debe terminar luego de ejecutar una cantidad finita de pasos. Estas condiciones aseguran que el algoritmo pueda implementarse, analizarse y, eventualmente, automatizarse.
+
+El texto distingue entre algoritmos cualitativos y algoritmos cuantitativos. Los primeros se expresan en lenguaje natural y son útiles para explicar procesos de forma informal, como una receta de cocina. Los segundos se centran en operaciones numéricas y son los más frecuentes en la programación y el análisis computacional. Esta distinción es útil para reconocer que los algoritmos están presentes en diversas áreas, incluso fuera del campo técnico.
+
+Todo algoritmo, sin importar su complejidad, tiene una estructura común compuesta por entrada, proceso y salida. La entrada representa los datos iniciales que el algoritmo necesita para funcionar. El proceso es el conjunto de operaciones o transformaciones aplicadas sobre esos datos. Y la salida es el resultado final, es decir, la solución al problema planteado. Esta estructura permite analizar y diseñar algoritmos de manera sistemática.
+
+El capítulo también introduce el concepto de variables y tipos de datos, que son fundamentales en la implementación de algoritmos. Las variables permiten almacenar valores intermedios o resultados durante la ejecución del algoritmo. Cada variable tiene un tipo de dato asociado, como enteros, reales, booleanos o cadenas de caracteres. Seleccionar correctamente estos tipos de datos es esencial para garantizar el correcto funcionamiento y la eficiencia del algoritmo.
+
+En cuanto a su representación, el libro destaca dos formas muy utilizadas: el pseudocódigo y los diagramas de flujo. El pseudocódigo permite describir los pasos del algoritmo de forma estructurada, utilizando una combinación de lenguaje natural y elementos propios de la programación, sin depender de un lenguaje específico. Por otro lado, los diagramas de flujo ofrecen una representación gráfica del algoritmo, facilitando la comprensión del flujo lógico a través de símbolos estandarizados (como flechas, rectángulos, rombos, etc.).
+
+Este capítulo cumple un rol fundamental en la formación del pensamiento algorítmico, ofreciendo las bases necesarias para comprender, diseñar y analizar algoritmos de forma rigurosa. El lector no solo adquiere una definición formal del término, sino también herramientas conceptuales para aplicarlo en distintos contextos, tanto dentro como fuera de la programación.
 

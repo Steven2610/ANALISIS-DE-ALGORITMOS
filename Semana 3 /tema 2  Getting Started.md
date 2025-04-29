@@ -1,4 +1,5 @@
- tema: 2. Getting Started; Subtemas: 2.3 Designing algorithms.
+
+ 
 Diseñar algoritmos es una de las tareas centrales en la ciencia de la computación. Esta sección introduce el proceso general de creación de algoritmos efectivos, destacando que se trata de mucho más que simplemente escribir código. El primer paso esencial es entender profundamente el problema que se desea resolver. Esto implica identificar claramente la entrada esperada, las restricciones impuestas por el problema y la salida deseada. Una comprensión incorrecta del problema puede llevar al diseño de algoritmos que, aunque funcionen técnicamente, no resuelvan correctamente la situación planteada.
 
 Una vez comprendido el problema, el diseño de algoritmos suele proceder de manera incremental. Es común comenzar con una versión simplificada del problema, resolverla, y luego ir añadiendo complejidad para abarcar el caso general. Esta estrategia permite identificar y solucionar dificultades de forma progresiva, lo que mejora la claridad del diseño y facilita su corrección.

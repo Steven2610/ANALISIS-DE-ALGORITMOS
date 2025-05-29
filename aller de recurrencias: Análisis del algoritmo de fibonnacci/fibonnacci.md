@@ -1,6 +1,6 @@
-¡Perfecto! Aquí tienes un `README.md` completo y bien estructurado para tu taller de **recurrencias: Análisis del algoritmo de Fibonacci**. Puedes copiarlo y pegarlo directamente en tu repositorio:
 
-```markdown
+
+
 # Taller de Recurrencias: Análisis del Algoritmo de Fibonacci
 
 📅 **Fecha de entrega:** 27 de mayo de 2025  
@@ -32,7 +32,7 @@ Fibonacci-Taller/
 
 ````
 
----
+
 
 ## 🧠 Implementación
 
@@ -146,7 +146,4 @@ public class Main {
 
 > Elaborado como parte del análisis de algoritmos clásicos usando técnicas de recurrencias y demostraciones por inducción.
 
-```
 
-¿Quieres que te genere también el `.java` listo para que solo copies y pegues, o te ayudo con el `git push` al repositorio?
-```

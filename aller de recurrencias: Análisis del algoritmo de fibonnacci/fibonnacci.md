@@ -144,6 +144,4 @@ public class Main {
 
 ---
 
-> Elaborado como parte del análisis de algoritmos clásicos usando técnicas de recurrencias y demostraciones por inducción.
-
 

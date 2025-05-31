@@ -1,4 +1,4 @@
----
+
 
 ##  Tema 3: Notación Asintótica
 
@@ -7,8 +7,7 @@
 ### Introducción
 
 La notación asintótica proporciona una forma matemática precisa para describir cómo crece el tiempo de ejecución o el uso de memoria de un algoritmo en función del tamaño de entrada $n$. Es un lenguaje fundamental para el análisis de algoritmos, ya que permite comparar la eficiencia de diferentes soluciones.
-
----
+ 
 
 ### Notaciones principales
 

@@ -1,5 +1,3 @@
----
-
 ##  Código completo en Java
 
 ```java
@@ -35,6 +33,7 @@ public class GeneradorPseudoaleatorio {
     }
 }
 ```
+
 
 ---
 

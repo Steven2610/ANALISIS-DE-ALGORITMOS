@@ -52,7 +52,7 @@ public class GeneradorPseudoaleatorio {
 
 ---
 
-### 🧪 Tabla: Iteración paso a paso
+###  Tabla: Iteración paso a paso
 
 | Iteración | $x_i$      | Cálculo $x_{i+1} = (a \cdot x_i + c) \mod m$      | $x_{i+1}$  | $r_i = x_{i+1}/m$ |
 | --------- | ---------- | ------------------------------------------------- | ---------- | ----------------- |
@@ -64,7 +64,7 @@ public class GeneradorPseudoaleatorio {
 
 ---
 
-### ✅ Conclusión
+###  Conclusión
 
 Cada número generado:
 
